@@ -58,6 +58,7 @@ packages:
 
   sets:
     - packages:
+        - base
         - systemd-sysvcompat
         - neovim
       action: install
